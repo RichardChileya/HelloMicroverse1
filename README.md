@@ -2,12 +2,13 @@
 # Project Name: Hello Microverse
 
 > Hello Microverse Task 
-Create new branch according to GitHub flow rules
+Created new branch according to GitHub flow rules
 Added a .gitignore file
 setup a linters for html and css and made sure that files not relevant are ignored by git.
 Added a descriptive README file 
-Add 3 file (each file in a separate commit)
+Add 3 files (each file in a separate commit)
 Added an html file which includes a header with the text " Hello Microverse"
+Added a test.md file which will be ignored by git 
 
 ## Built With
 - HTML and CSS
